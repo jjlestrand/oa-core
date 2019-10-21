@@ -22,7 +22,7 @@ Windows Python Install (Python 3.x)
 
 ## Ubuntu Linux
 
-* Install system requirements ``sudo apt-get install -y python python-dev python-pip build-essential swig git libpulse-dev espeak``
+* Install system requirements ``sudo apt-get install -y python python-dev python-pip build-essential swig git libpulse-dev libasound2-dev espeak``
 * Install Python dependencies: `pip install -r requirements.txt`
 
 ## Arch Linux
